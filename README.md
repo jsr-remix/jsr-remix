@@ -2,6 +2,7 @@
 
 A recreation of the original Jet Set Radio!
 Our goal is to create a game that plays exactly like the original Dreamcast release, with improvements.
+
 Discord: [come suffer with us](https://discord.gg/XJ4RXbKfM8)
 
 ## To-Do
